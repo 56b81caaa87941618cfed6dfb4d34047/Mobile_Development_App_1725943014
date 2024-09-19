@@ -6,6 +6,12 @@
         "message_id": "guest19092024143358"
     },
     {
+        "role": "user",
+        "content": "Hi",
+        "timestamp": "19092024143359",
+        "message_id": "guest19092024143358"
+    },
+    {
         "role": "makeinfinite",
         "content": "Can you describe the project a bit more?",
         "message_id": "project_init",
